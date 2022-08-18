@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is Ankur code for testing'
+                        echo 'Hi, this is Ankur code for '
                         echo 'We are Starting the Testing'
                   }
             }
