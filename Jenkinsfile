@@ -3,7 +3,11 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
+<<<<<<< HEAD
                         echo 'Hi, this is Ankur code for githubgjkdj'
+=======
+                        echo 'Hi, this is Ankur code for githubpurpose'
+>>>>>>> b1
                         echo 'We are Starting the Testing'
                   }
             }
